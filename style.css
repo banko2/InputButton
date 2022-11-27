@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(152, 147, 54, 0.858);
+    text-align: center;
+    color: darkblue;
+}
+button{
+    background-color: aqua;
+    font-weight: bold;
+    align-items: center;
+}
